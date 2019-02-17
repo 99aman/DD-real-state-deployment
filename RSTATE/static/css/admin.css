@@ -1,0 +1,45 @@
+body{
+  background: #deedef;
+}
+#header{
+  height: 45px;
+  background: #10284e;
+  color:#fff;
+}
+#branding h1{
+  color: #fff;
+
+}
+.module{
+  background: #f2f9f9;
+}
+input[type=text], input[type=password], input[type=email], input[type=url], input[type=number], textarea,
+select, .vTextField{
+  border: 1px solid #b1cfd3;
+  border-radius: 4px;
+  padding: 5px 6px;
+  margin-top: 0;
+}
+tr.row2{
+  background: #deedef;
+}
+thead th{
+  background: #deedef;
+  line-height: normal;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+a.link,
+a.visited{
+  color: #10284e;
+}
+div.breadcrumbs{
+  background: #30caa0;
+  color:#10284e;
+}
+div.breadcrumbs a{
+  color: #333;
+}
+.module h2, .module caption, .inline-group h2{
+  background: #30caa0;
+}
